@@ -158,9 +158,9 @@ After fixing each of the compilation and runtime errors, your code should produc
 
 Please read very carefully. Historically, most students lose points on problem sets for simply failing to read the instructions and requirements.
 
-* September 1, 2019, at 11:59pm.
+* September 15, 2019, at 11:59pm.
 
-If you submit your problem set at midnight (i.e., September 2, 2019, at 12:00am), it is considered **late**!
+If you submit your problem set at midnight (i.e., September 16, 2019, at 12:00am), it is considered **late**!
 
 ### Submission Requirements
 
