@@ -54,19 +54,19 @@ public class ProblemSet0{
          * Print a face to the console.
          */
 
-        // System.out.println("   \\\\\ ")
-        // System.out.println("  +\"\"\"\"+");
-        // System.out.println("(|  0 0  |)");
-        // System.out.println(" |   ^   |");
-        // System.out.println(" |  '-'  |")
-        // System.out.println("  +-----+\n");
-        //
-        // /*
-        //  * Exercise 5.
-        //  *
-        //  * Print a to-do list to the console.
-        //  */
-        //
+        System.out.println("   \\\\\\\\\\ ");
+        System.out.println("  +\"\"\"\"\"+");
+        System.out.println("(|  0 0  |)");
+        System.out.println(" |   ^   |");
+        System.out.println(" |  '-'  |");
+        System.out.println("  +-----+\n");
+
+        /*
+         * Exercise 5.
+         *
+         * Print a to-do list to the console.
+         */
+
         // System.out.println("Here's today's to-do list:");
         // System.out.println("\t- Go food shopping");
         // System.out.println("\t- Mow the lawn\n");
