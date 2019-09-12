@@ -77,21 +77,21 @@ public class ProblemSet0{
          * Print a square of text to the console.
          */
 
-        System.out.println("H E L L O\nE\tA\nL\tP\nL\tC\nO A P C S");
+        System.out.println("\nH E L L O\nE\tA\nL\tP\nL\tC\nO A P C S\n");
 
         /*
          * Exercise 7.
          *
          * Print a countdown to the console.
          */
-        //
-        // System.out.println("Three.\tTwo.\tOne.\tGo!\n";
-        //
-        // /*
-        //  * Exercise 8.
-        //  *
-        //  * Print three diamonds to the console.
-        //  */
+
+        System.out.println("\nThree.\tTwo.\tOne.\tGo!\n");
+
+        /*
+         * Exercise 8.
+         *
+         * Print three diamonds to the console.
+         */
         //
         // System.out.println("     /\     /\ ");
         // System.out.printn(" /  \ /  \   /  \ ");
