@@ -77,13 +77,13 @@ public class ProblemSet0{
          * Print a square of text to the console.
          */
 
-        // System.out.println("H E L L O\nEA\nLP\nLC\nO A P C");
-        //
-        // /*
-        //  * Exercise 7.
-        //  *
-        //  * Print a countdown to the console.
-        //  */
+        System.out.println("H E L L O\nE\tA\nL\tP\nL\tC\nO A P C S");
+
+        /*
+         * Exercise 7.
+         *
+         * Print a countdown to the console.
+         */
         //
         // System.out.println("Three.\tTwo.\tOne.\tGo!\n";
         //
