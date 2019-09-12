@@ -105,17 +105,17 @@ public class ProblemSet0{
          *
          * Print an encouraging message to the console.
          */
-        //
-        // System.out.println("You're almost done with your first problem set...");
-        //
-        // /*
-        //  * Exercise 10.
-        //  *
-        //  * Print a plus sign to the console.
-        //  */
-        //
-        // System.out.println("+---+||");
-        // System.out.println("+---++---+||+---++---+")
-        // System.out.println("||+---+")
+
+        System.out.println("\nYou're almost done with your first problem set...\n");
+
+        /*
+         * Exercise 10.
+         *
+         * Print a plus sign to the console.
+         */
+
+        System.out.println("+---+||");
+        System.out.println("+---++---+||+---++---+")
+        System.out.println("||+---+")
 }
 }
