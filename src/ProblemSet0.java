@@ -24,7 +24,7 @@ public class ProblemSet0{
          * Print a message to the console.
          */
 
-        System.out.println("Hello, world! Am I a programmer yet?\n");
+        System.out.println("\nHello, world! Am I a programmer yet?\n");
 
         /*
          * Exercise 2.
