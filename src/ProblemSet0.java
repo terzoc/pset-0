@@ -77,7 +77,7 @@ public class ProblemSet0{
          * Print a square of text to the console.
          */
 
-        System.out.println("\nH E L L O\nE\tA\nL\tP\nL\tC\nO A P C S\n");
+        System.out.println("\nH E L L O\nE\t\tA\nL\t\tP\nL\t\tC\nO A P C S\n");
 
         /*
          * Exercise 7.
@@ -114,8 +114,8 @@ public class ProblemSet0{
          * Print a plus sign to the console.
          */
 
-        System.out.println("+---+||");
-        System.out.println("+---++---+||+---++---+")
-        System.out.println("||+---+")
+        System.out.println("\n\t+---+\n\t|\t|");
+        System.out.println("+---+\t+---+\n|\t\t\t|\n+---+\t+---+");
+        System.out.println("\t|\t|\n\t+---+\n");
 }
 }
